@@ -1,0 +1,17 @@
+body{
+  font: 18px;
+}
+
+header{
+  background-image: url('images/orbweaver.jpg');
+}
+
+#displayimage{
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
