@@ -22,7 +22,7 @@ The page has been developed using the following languages:
 ## Support and contact details
 For any questions or feedback, please follow these guidelines:
 * To raise an issue, please <a href="https://github.com/dinhcaradoc/Portfolio-IP/issues/new/choose">click here</a>
-* For comments, please email the developer <a href="kwambugualex@gmail.com">here</a>
+* For comments, please email the developer kwambugualex@gmail.com
 
 ### License
 MIT Licence Copyright (c) {2020} **Dinhcaradoc**
