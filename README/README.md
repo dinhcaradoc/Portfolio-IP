@@ -24,5 +24,8 @@ For any questions or feedback, please follow these guidelines:
 * To raise an issue, please <a href="https://github.com/dinhcaradoc/Portfolio-IP/issues/new/choose">click here</a>
 * For comments, please email the developer <a href="mailto:kwambugualex@gmail.com">here</a>
 
+## Live
+Here is a <a href="https://dinhcaradoc.github.io/Portfolio-IP/">live demo</a> of the project.
+
 ### License
-MIT Licence Copyright (c) {2020} **Dinhcaradoc**
+MIT Licence Copyright (c) 2020 **Dinhcaradoc**
