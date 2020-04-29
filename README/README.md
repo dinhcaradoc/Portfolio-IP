@@ -25,4 +25,4 @@ For any questions or feedback, please follow these guidelines:
 * For comments, please email the developer <a href="kwambugualex@gmail.com">here</a>
 
 ### License
-Copyright (c) {2020} **Dinhcaradoc**
+MIT Licence Copyright (c) {2020} **Dinhcaradoc**
